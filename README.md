@@ -3,7 +3,7 @@
 - 🔭 Backend Developer at WEBJUMP
 - 🌱 PHP and Magento (Adobe Commerce)
 - 😄 Pronoun: he/him
-- Fluent English Speaker
+- :speech_balloon: Fluent English Speaker
 
 <div>
   <a href="https://github.com/TalesDuque">
